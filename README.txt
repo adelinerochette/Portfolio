@@ -5,9 +5,6 @@ Portefolio
 AUTHOR:
 Adeline ROCHETTE
 
-Websites: https://gettemplates.co https://freehtml5.co/
-
-
 CREDITS:
 
 Bootstrap
