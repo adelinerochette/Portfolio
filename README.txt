@@ -1,9 +1,9 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+Portefolio
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+Adeline ROCHETTE
 
 Websites: https://gettemplates.co https://freehtml5.co/
 
